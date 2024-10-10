@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WisanuCf
+- 👀 I’m interested in Robot
+- 🌱 I’m currently learning HTML, CSS, Javascript, Python, and MySQL
+- 💞️ I’m looking to collaborate on Testing Program with Robot
+- 😄 Pronouns: He/him
